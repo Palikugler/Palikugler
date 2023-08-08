@@ -13,7 +13,12 @@
 <a href="https://www.kaggle.com/mariapaulakugler" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_ovindu" height="25" width="25" /></a>
  <a href = "mailto: mpaulakugler@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="20" width="25" /></a>
 </p>
-</p>
+
+
+
+
+
+
 
 
 
@@ -29,7 +34,6 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
-
 
 <h4 align="left">📘 Publications</h4><a href = "https://olacefs.com/wp-content/uploads/2023/03/No.-28-de-la-Revista-Fiscalizando.pdf">◾ Audit Magazine
 
