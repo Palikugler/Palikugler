@@ -19,9 +19,9 @@
 
 <p align="center">
   <em>
-    Hello,...  .</a>. <br>
-    <b>a passionate self-learner</b>  and a 
-    with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
+    I am an enthusiastic and curious person who loves to take up new <b>challenges</b> and learn new <b>skills</b>. </a> <br>
+   I am <b>a passionate </b> about the <b>power of statistical data </b> to make the best-possible decisions when are posed the correct questions 
+  
   </em> 
 
 </p>
