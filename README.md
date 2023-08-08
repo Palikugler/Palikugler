@@ -20,7 +20,7 @@
 <p align="center">
   <em>
     I am an enthusiastic and curious person who loves to take up new <b>challenges</b> and learn new <b>skills</b>. </a> <br>
-   I am <b>a passionate </b> about the <b>power of statistical data </b> to make the best-possible decisions when are posed the correct questions 
+   I am <b>a passionate </b> about the <b>power of statistical data </b> to make the best-possible decisions. 
   
   </em> 
 
@@ -36,9 +36,9 @@
 
 ✔ kfalskdñlf
 
+<h4 align="left">📘 Publications</h4><a href = "https://olacefs.com/wp-content/uploads/2023/03/No.-28-de-la-Revista-Fiscalizando.pdf"><em>◾ Audit Magazine<em>
 
- ✔<h4 align="left">🏆Awards</h4><a href = "https://olacefs.com/ctpbg/wp-content/uploads/sites/4/2021/12/Tercer-Lugar.pdf"><img src="https://scontent.faep22-1.fna.fbcdn.net/v/t39.30808-6/252363179_250316380458877_4659469834132837963_n.png?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=VEPyCBdGA08AX9d_hz2&_nc_ht=scontent.faep22-1.fna&oh=00_AfBbqVURonGz0LalS8cEIdk4ED92RV4TdNvPMEeeu5C2ww&oe=64D7631B" height="80" width="100"/>
- <a href = "https://www.catunescomujer.org/jovenes-investigando-jovenes-las-mujeres-jovenes-en-la-sociedad-de-la-informacion/"><img src="https://agenda2030lac.org/sites/default/files/styles/256x256/public/2020-09/UN_Women_English_No_Tag_Blue.png?itok=YAOpTbcF" height="80" width="100" /></a> 
+<h4 align="left">🏆Awards</h4><a href = "https://olacefs.com/ctpbg/wp-content/uploads/sites/4/2021/12/Tercer-Lugar.pdf"><img src="https://scontent.faep22-1.fna.fbcdn.net/v/t39.30808-6/252363179_250316380458877_4659469834132837963_n.png?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=VEPyCBdGA08AX9d_hz2&_nc_ht=scontent.faep22-1.fna&oh=00_AfBbqVURonGz0LalS8cEIdk4ED92RV4TdNvPMEeeu5C2ww&oe=64D7631B" height="80" width="100"/><a href = "https://www.catunescomujer.org/jovenes-investigando-jovenes-las-mujeres-jovenes-en-la-sociedad-de-la-informacion/"><img src="https://agenda2030lac.org/sites/default/files/styles/256x256/public/2020-09/UN_Women_English_No_Tag_Blue.png?itok=YAOpTbcF" height="80" width="100" /></a> 
  
  
 
