@@ -22,6 +22,7 @@
 
 
 
+
 <p align="center">
   <em>
     I am an enthusiastic and curious person who loves to take up new <b>challenges</b> and learn new <b>skills</b>. </a> <br>
@@ -54,5 +55,5 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
   <hr>
 
-
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFzCLsJdl4&#x2F;view?utm_content=DAFzCLsJdl4&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener"> Data Science en el proceso de auditoria</a> 
 
